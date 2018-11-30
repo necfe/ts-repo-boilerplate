@@ -1,4 +1,4 @@
-# js-repo-template
+# ts-repo-template
 
 - [中文说明](README.zh-CN.md)
 
@@ -9,14 +9,14 @@ A template for creating npm package repo.
 [![Dependencies][david-img]][david-url]
 [![NPM Download][download-img]][download-url]
 
-[circleci-img]: https://img.shields.io/circleci/project/github/necfe/js-repo-template.svg?style=flat-square
-[circleci-url]: https://circleci.com/gh/necfe/js-repo-template
-[npm-img]: http://img.shields.io/npm/v/js-repo-template.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/js-repo-template
-[david-img]: http://img.shields.io/david/necfe/js-repo-template.svg?style=flat-square
-[david-url]: https://david-dm.org/necfe/js-repo-template
-[download-img]: https://img.shields.io/npm/dm/js-repo-template.svg?style=flat-square
-[download-url]: https://npmjs.org/package/js-repo-template
+[circleci-img]: https://img.shields.io/circleci/project/github/necfe/ts-repo-template.svg?style=flat-square
+[circleci-url]: https://circleci.com/gh/necfe/ts-repo-template
+[npm-img]: http://img.shields.io/npm/v/ts-repo-template.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/ts-repo-template
+[david-img]: http://img.shields.io/david/necfe/ts-repo-template.svg?style=flat-square
+[david-url]: https://david-dm.org/necfe/ts-repo-template
+[download-img]: https://img.shields.io/npm/dm/ts-repo-template.svg?style=flat-square
+[download-url]: https://npmjs.org/package/ts-repo-template
 
 ## Example
 
@@ -33,7 +33,7 @@ Introduce some major features of this project.
 ## Install
 
 ``` shell
-npm install --save-dev js-repo-template
+npm install --save-dev ts-repo-template
 ```
 
 ## Options
@@ -74,7 +74,7 @@ npm run test
 
 ## Changelog
 
-See [Releases](https://github.com/necfe/js-repo-template/releases)
+See [Releases](https://github.com/necfe/ts-repo-template/releases)
 
 ## Contributing
 
