@@ -1,6 +1,6 @@
 {
-  "name": "ts-repo-template",
-  "description": "A template for creating npm package repo",
+  "name": "ts-repo-boilerplate",
+  "description": "A boilerplate for creating npm package repo",
   "version": "0.1.0",
   "author": "Rainfore <rainforest92@126.com>",
   "scripts": {
@@ -12,22 +12,22 @@
     "test:one": "TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\"}' mocha --require ts-node/register"
   },
   "main": "./dist/bundle.js",
-  "repository": "necfe/ts-repo-template",
+  "repository": "necfe/ts-repo-boilerplate",
   "bugs": {
-    "url": "http://github.com/necfe/ts-repo-template/issues"
+    "url": "http://github.com/necfe/ts-repo-boilerplate/issues"
   },
   "license": "MIT",
   "keywords": [
     "js",
     "ts",
     "repo",
-    "template"
+    "boilerplate"
   ],
   "tags": [
     "js",
     "ts",
     "repo",
-    "template"
+    "boilerplate"
   ],
   "dependencies": {},
   "devDependencies": {

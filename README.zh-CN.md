@@ -1,4 +1,4 @@
-# ts-repo-template
+# ts-repo-boilerplate
 
 - [README in English](README.md)
 
@@ -9,14 +9,14 @@
 [![Dependencies][david-img]][david-url]
 [![NPM Download][download-img]][download-url]
 
-[circleci-img]: https://img.shields.io/circleci/project/github/necfe/ts-repo-template.svg?style=flat-square
-[circleci-url]: https://circleci.com/gh/necfe/ts-repo-template
-[npm-img]: http://img.shields.io/npm/v/ts-repo-template.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/ts-repo-template
-[david-img]: http://img.shields.io/david/necfe/ts-repo-template.svg?style=flat-square
-[david-url]: https://david-dm.org/necfe/ts-repo-template
-[download-img]: https://img.shields.io/npm/dm/ts-repo-template.svg?style=flat-square
-[download-url]: https://npmjs.org/package/ts-repo-template
+[circleci-img]: https://img.shields.io/circleci/project/github/necfe/ts-repo-boilerplate.svg?style=flat-square
+[circleci-url]: https://circleci.com/gh/necfe/ts-repo-boilerplate
+[npm-img]: http://img.shields.io/npm/v/ts-repo-boilerplate.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/ts-repo-boilerplate
+[david-img]: http://img.shields.io/david/necfe/ts-repo-boilerplate.svg?style=flat-square
+[david-url]: https://david-dm.org/necfe/ts-repo-boilerplate
+[download-img]: https://img.shields.io/npm/dm/ts-repo-boilerplate.svg?style=flat-square
+[download-url]: https://npmjs.org/package/ts-repo-boilerplate
 
 ## 示例
 
@@ -29,7 +29,7 @@
 ## 安装
 
 ``` shell
-npm install --save-dev ts-repo-template
+npm install --save-dev ts-repo-boilerplate
 ```
 
 ## 选项
@@ -70,7 +70,7 @@ npm run test
 
 ## 修改日志
 
-See [Releases](https://github.com/necfe/ts-repo-template/releases)
+See [Releases](https://github.com/necfe/ts-repo-boilerplate/releases)
 
 ## 贡献指南
 
